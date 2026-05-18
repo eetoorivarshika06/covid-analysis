@@ -1,0 +1,6 @@
+Ticker,Start Price,End Price,Total Return (%),Avg Daily Ret (%),Avg Volatility,Max Drawdown (%),Signal
+AAPL,39.5,158.12,300.31,0.1189,1.5731,-31.0,Bullish 🟢
+GOOGL,61.0,40.91,-32.94,-0.0155,1.7282,-55.57,Bearish 🔴
+MSFT,101.0,406.21,302.19,0.1186,1.5238,-25.4,Bullish 🟢
+AMZN,83.0,158.88,91.42,0.0685,1.928,-42.72,Bullish 🟢
+TSLA,23.0,13.74,-40.26,0.0305,3.7119,-88.22,Bullish 🟢
