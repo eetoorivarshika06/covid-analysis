@@ -1,4 +1,4 @@
-# 📈 Stock Market & Financial Data Analysis
+ # 📈 Stock Market & Financial Data Analysis
 
 > A Python-based financial analytics project covering 5 years (2019–2024) of stock performance for AAPL, GOOGL, MSFT, AMZN, and TSLA — with moving average signals, volatility modeling, correlation analysis, and sector comparison.
 
