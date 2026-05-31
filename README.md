@@ -116,6 +116,12 @@ stock-market-analysis/
 
 ## 👤 Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**eetoorivarshika06** · [GitHub](https://github.com/eetoorivarshika06)
 
 *Built as part of a finance analytics portfolio — inspired by JPMorgan internship experience in data-driven financial modeling.*
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
